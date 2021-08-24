@@ -1,2 +1,2 @@
 # searX App
-Not an official WebView application.
+Not an official WebView app for Android (4.4+).
