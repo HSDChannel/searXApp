@@ -1,2 +1,2 @@
 # searX App
-Not an official app
+Not an official WebView application.
